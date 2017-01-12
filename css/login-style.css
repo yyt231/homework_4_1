@@ -1,0 +1,34 @@
+body {
+
+    background: #e7e7e7 url("../img/rebc.gif");
+}
+
+.logo {
+    line-height: 96px;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.login-form {
+    height: 386px;
+    min-width: 400px;
+}
+
+form {
+    padding: 50px;
+    border-radius: 5px;
+    border: 1px solid #e9e9e9;
+}
+
+form .title {
+    text-align: center;
+    color: #35b558;
+}
+
+.margintop-10 {
+    margin-top: 10px;
+}
+
+.formheight {
+    height: 50px;
+}
